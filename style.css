@@ -1,15 +1,6 @@
 #bor1 {
-    margin-top: 20%;
-    margin-bottom: 20%;
-    margin-left: 20%;
-    margin-right: 20%;
-    border: solid;
-    border-width: 30px;
-}
-
-#bor2 {
-    border: solid;
-    border-width: 15px;
-    border-color: white;
-    margin: auto;
+   background-color: green;
+   color: white;
+   width: fit-content;
+   height: fit-content;
 }
